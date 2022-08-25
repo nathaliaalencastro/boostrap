@@ -1,0 +1,44 @@
+header{
+    background-color: cadetblue;
+    height: 200px;
+}
+
+main{
+    background-color: blueviolet;
+    height: 800px;
+}
+
+aside{
+    background-color: coral;
+    height: 800px;
+}
+.page-item{
+    color: black;
+margin-top: 30px;
+    background-color: black;
+}
+.col-lg-6{
+    margin-top: 50px;
+}
+
+.nath{
+    display: inline-block;
+    text-decoration: none;
+    margin-top: 70px;
+    float: right;
+    margin-right: 100px;
+    color: white;
+}
+
+footer{
+    background-color: green;
+    height: 100px;
+  
+}
+.ul1{
+    position: relative;
+    display: flex;
+    margin-left: 30px;
+    text-decoration: none;
+    
+}
